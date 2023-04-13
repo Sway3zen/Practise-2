@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td {
+    border: 1px solid #ccc;
+    padding: 10%;
+    color:white;
+    display: flex;
+    align-items: center;
+  } 
+
+  td p {
+    margin: auto;
+    text-align: center;
+    font-size: 72px;
+
+  }
+  td img {
+    position: block;
+    padding: 0;
+    width: 20%;
+    height: auto;
+  }
